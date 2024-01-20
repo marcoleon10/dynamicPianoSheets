@@ -3,6 +3,7 @@
 Java oriented program that uses serialization and threads. The goal of this is to let the user create its own piano sheet with a dynamic interface that allows them to add notes and play them, and save them with serialization.
 
 The main interface is the next one:
+
 ![image](https://github.com/marcoleon10/dynamicPianoSheets/assets/111380598/78d070f6-92bf-496c-b689-e96310d54f22)
 
 Three options must display:
